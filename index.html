@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda de Contatos</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="./imagens/logo.png" alt="Agenda Telefônica">
+            <h1>Agenda de Contatos</h1>
+        </header>
+        <form id="form-agenda">
+            <input type="text" id="nome-completo" required placeholder="Nome completo" />
+            <input type="number" id="telefone" required placeholder="Telefone" min="0" />
+            <button type="submit">Cadastrar</button>
+        </form>
+        <table cellspacing="0">
+            <thead>
+                <tr>
+                    <th>
+                        Nome Completo
+                    </th>
+                    <th>
+                        Telefone
+                    </th>
+                    <th>
+                        Ações
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+            
+        </table>
+    </div>
+    <script src="./main.js"></script>
+</body>
+</html>
