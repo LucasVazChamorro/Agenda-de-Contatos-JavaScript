@@ -95,7 +95,7 @@ Estou em busca de uma **oportunidade de estágio** ou vaga como **desenvolvedor 
 
 - ✉️ Email: lucasvazchamorro7@email.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/lucas-chamorro/](https://www.linkedin.com/in/lucas-chamorro/)  
-- 🌐 Portfólio: [https://portfolio-lucas-chamorro.vercel.app/](https://portfolio-lucas-chamorro.vercel.app/)
+- 🌐 Portfólio: [https://lucasvazchamorro.github.io/portfolio/](https://lucasvazchamorro.github.io/portfolio/)
 
 ---
 
